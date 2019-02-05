@@ -1,0 +1,16 @@
+PODS:
+  - JVNoParameterInitializable (0.1.0)
+
+DEPENDENCIES:
+  - JVNoParameterInitializable (from `../`)
+
+EXTERNAL SOURCES:
+  JVNoParameterInitializable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVNoParameterInitializable: ec7ec9775d6318431b8e3bb7059da601fe93c64f
+
+PODFILE CHECKSUM: 97145805de166b48c4f2407a2540d68e7bc0d16b
+
+COCOAPODS: 1.6.0.beta.1

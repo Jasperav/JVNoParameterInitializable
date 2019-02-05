@@ -1,0 +1,6 @@
+framework module JVNoParameterInitializable {
+  umbrella header "JVNoParameterInitializable-umbrella.h"
+
+  export *
+  module * { export * }
+}
